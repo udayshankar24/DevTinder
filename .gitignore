@@ -1,1 +1,10 @@
 node_modules
+test.txt
+# Ignore build and log files
+dist/
+out/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
